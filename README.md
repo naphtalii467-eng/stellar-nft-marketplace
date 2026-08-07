@@ -1,3 +1,5 @@
+
+<!-- fix(#3): add a lightweight health-check endpoint -->
 # stellar-nft-marketplace
 
 A full-stack Web3 application built on the Stellar blockchain using Soroban smart contracts.
